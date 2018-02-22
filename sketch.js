@@ -1,7 +1,7 @@
 //THESE ARE VARIABLES --------------------------------------------------------
 
-var catImg;//declaring var that will hold the object image 
-//terminal > directory of the folder > python simple http server > IP http://localhost: 8000 > call in browser localhost:8000
+ar catImg;// check console > terminal > cd /Users/bene/samuel\ mann/2017.10.31\ laser\ cat > python -m SimpleHTTPServer  > enter > see canvas in http://localhost:8000/
+// https://github.com/processing/p5.js/wiki/Local-server
 var eyes = []; // array to list the eyes //declaring var that will hold the object eyes in an array
 //console > nb eyes > read the detail of each eye caracteristics
 var lasers = [];
